@@ -42,7 +42,7 @@ img {
 /* Logo */
 #Logo {
     position: absolute;
-    top: 1%; /* Adjust based on design */
+    top: 50px; /* Adjust based on design */
     left: 57%; /* Center horizontally */
     transform: translateX(-50%); /* Center align */
     width: 65%; /* Logo width */
